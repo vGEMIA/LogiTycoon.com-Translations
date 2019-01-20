@@ -15,6 +15,9 @@ Just translate the part that's after the => sign and between the " signs. Just l
 Those or my comments. They could help you with knowing what type of sentences, words are used in, etc. Please leave those comments there.
 
 ## How to save the edits?
-To request your changes now in the master code, you'll need to create a pull request. Just click on the next site that showed 
-Now your're done with editing and saving the file - you made a request to us that you want to change your edited lines in your language-pack. 
 
+When everything is okay, press the "Propose File Change" button at the bottom of the page.
+
+After this, request your changes in the master code, by creating a pull request. Just click on the "Create Pull Request" button on the next site that showed.
+
+Now your're done with editing and saving the file - you made a request to us that you want to change your edited lines in your language-pack. 
