@@ -18,6 +18,6 @@ Those or my comments. They could help you with knowing what type of sentences, w
 
 When everything is okay, press the "Propose File Change" button at the bottom of the page.
 
-After this, request your changes in the master code, by creating a pull request. Just click on the "Create Pull Request" button on the next site that showed.
+After this, request your changes in the master code, by creating a pull request. Just click on the "Create Pull Request" button on the next site that showed. (Sometimes you have to press this button twice.)
 
 Now your're done with editing and saving the file - you made a request to us that you want to change your edited lines in your language-pack. 
