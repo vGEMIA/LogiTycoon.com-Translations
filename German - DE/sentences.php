@@ -28,7 +28,7 @@ $langsentences = array(
 "TXT_INVOLVED_ACCIDENT"      => "has been involved in an accident!", //Truck %number% before this
 "TXT_INSURANCE_PAID"         => "Your insurance has paid the damage.",
 "TXT_INSURANCE_PAID_HALF"    => "Your insurance has paid half of the damage.",
-"TXT_NO_INSURANCE"           => "You did not have an insurance. You have paid all the damage by yourself.",
+"TXT_HAD_NO_INSURANCE"       => "You did not have an insurance. You have paid all the damage by yourself.",
 
 "TXT_MEMBERS_WITHOUT_COMP"   => "Members without a company are not displayed in this table.",
 
