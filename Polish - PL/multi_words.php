@@ -405,5 +405,23 @@ $langmultiwords = array(
 "TXT_TRANSFERRING_COSTS"     => "Transferring Costs",
 
 "TXT_ACTION_UNTIL"           => "Action until" // : after this
+  
+//Oil Refinery Update
+"TXT_BUY_OIL_REFINERIES"     => "Buy Oil Refineries",
+"TXT_OIL_REFINERY"           => "Oil Refinery",
+"TXT_OIL_REFINERIES"         => "Oil Refineries",
+"TXT_NEW_OIL_REFINERY"       => "New Oil Refinery",
+"TXT_OIL_REFINERY_UPGRADE"   => "Oil Refinery Upgrade",
+"TXT_UPGRADE_OIL_REFINERIES" => "Upgrade Oil Refineries",
+"TXT_CAPACITY_UPGRADE"       => "Capacity Upgrade",
+"TXT_PRODUCTION_UPGRADE"     => "Production Upgrade",
+"TXT_CRUDE_OIL"              => "Crude Oil",
+"TXT_CRUDE_OIL_COSTS"        => "Crude Oil Costs",
+"TXT_TRANSPORT_COSTS"        => "Transport Costs",
+"TXT_FILL_OIL_REFINERIES"    => "Fill Oil Refineries",
+"TXT_START_TRANSPORT_FUEL"   => "Start Fuel Transport",
+
+//Bankrupt Update
+"TXT_EMPLOYEES_LEFT"         => "Employees Left",
 );
 ?>
