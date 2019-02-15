@@ -2,57 +2,57 @@
 
 
 $langmultiwords = array(
-"TXT_H_OFFICE_FULL"          => "Office Full",
-"TXT_H_COMP_PROPERTIES"      => "Company Properties", //As in: things that you own
-"TXT_H_LAST_TRANSACTION"     => "Last transaction",
-"TXT_H_NEWS"                 => "Latest News",
+"TXT_H_OFFICE_FULL"          => "Escritório Cheio",
+"TXT_H_COMP_PROPERTIES"      => "Propriedades da Empresa", //As in: things that you own
+"TXT_H_LAST_TRANSACTION"     => "Ultima transação",
+"TXT_H_NEWS"                 => "Ultimas notícias",
 
-"TXT_MEMBER_ACTIVITY"        => "Member Activity",
-"TXT_H_NO_TRANSACTIONS"      => "No transactions",
-"TXT_PRIVACYPOLICY"          => "Privacy Policy",
-"TXT_H_STARTTIME"            => "Start time",
-"TXT_TERMSOFUSE"             => "Terms of Use",
-"TXT_TOP_WEEK"               => "Top This Week",
-"TXT_TOP_TODAY"              => "Top Today",
-"TXT_TOP_TOTAL"              => "Top Total",
+"TXT_MEMBER_ACTIVITY"        => "Atividade de Membros",
+"TXT_H_NO_TRANSACTIONS"      => "Sem transações",
+"TXT_PRIVACYPOLICY"          => "Politica de Privacidade",
+"TXT_H_STARTTIME"            => "Hora de Início",
+"TXT_TERMSOFUSE"             => "Termos de Utilização",
+"TXT_TOP_WEEK"               => "Melhores da Semana",
+"TXT_TOP_TODAY"              => "Melhores do Dia",
+"TXT_TOP_TOTAL"              => "Melhores desde Sempre",
 
-"TXT_USERNAME_NOT_AVAILABLE" => "Username Not Available.",
-"TXT_USERNAME_AVAILABLE"     => "Username Available.",
+"TXT_USERNAME_NOT_AVAILABLE" => "Nome de Utilizador não disponível.",
+"TXT_USERNAME_AVAILABLE"     => "Nome de Utilizador disponível.",
 
-"TXT_VIEWALL"                => "View all",
+"TXT_VIEWALL"                => "Ver Todos",
 
-"TXT_H_YOURCOMPANY"          => "Your Company",
+"TXT_H_YOURCOMPANY"          => "A Sua Empresa",
 
-"TXT_NOT_SET"                => "Not set",
-"TXT_FREIGHT_NOTIFS"         => "freight notifications", //Number before this
-"TXT_ACTIVE_FREIGHTS"        => "active freights", //Number before this
-"TXT_COMP_NOTIFS"            => "company notifications", //Number before this
-"TXT_NEW_MSGS"               => "New messages",
-"TXT_NO_NEW_MSGS"            => "No new messages",
-"TXT_PENDING_INVOICES"       => "pending invoices", //Number before this
-"TXT_MY_PROFILE"             => "My Profile",
-"TXT_MY_CALENDAR"            => "My Calendar",
-"TXT_MY_INBOX"               => "My Inbox",
-"TXT_CHANGE_PSW"             => "Change Password",
-"TXT_CHANGE_SETTING"         => "Change Setting",
-"TXT_LOG_OUT"                => "Log Out",
+"TXT_NOT_SET"                => "Não Definido",
+"TXT_FREIGHT_NOTIFS"         => "notificações de frota", //Number before this
+"TXT_ACTIVE_FREIGHTS"        => "frotas ativas", //Number before this
+"TXT_COMP_NOTIFS"            => "notificações de empresa", //Number before this
+"TXT_NEW_MSGS"               => "Novas mensagens",
+"TXT_NO_NEW_MSGS"            => "Sem novas mensagens",
+"TXT_PENDING_INVOICES"       => "faturas pendentes", //Number before this
+"TXT_MY_PROFILE"             => "Meu Perfil",
+"TXT_MY_CALENDAR"            => "Meu Calendário",
+"TXT_MY_INBOX"               => "Minha Caixa de Entrada",
+"TXT_CHANGE_PSW"             => "Mudar palavra-passe",
+"TXT_CHANGE_SETTING"         => "Mudar Definições",
+"TXT_LOG_OUT"                => "Terminar Sessão",
 
-"TXT_COMP_PROFILE"           => "Company Profile",
-"TXT_CONCERN_PROFILE"        => "Corporation Profile",
-"TXT_USER_PROFILE"           => "User Profile",
+"TXT_COMP_PROFILE"           => "Perfil da Empresa",
+"TXT_CONCERN_PROFILE"        => "Perfil da Sociedade",
+"TXT_USER_PROFILE"           => "Perfil de Utilizador",
 
-"TXT_DAILY_AWARD"            => "Daily Award",
-"TXT_GENERAL_MESSAGE"        => "General Message",
+"TXT_DAILY_AWARD"            => "Recompensa Diária",
+"TXT_GENERAL_MESSAGE"        => "Mensagem Geral",
 
-"TXT_FUEL_TANK"              => "Fuel Tank",
-"TXT_TRUCK_TRAILER_MARKET"   => "Truck & Trailer Market",
-"TXT_JOIN_CONCERN"           => "Join Corporation",
-"TXT_BANK_ACCOUNT"           => "Bank Account",
-"TXT_NAVIGATION_UNITS"       => "Navigation Units",
-"TXT_FUEL_TANK_LOCK"         => "Fuel Tank Lock",
-"TXT_CHANGE_INSURANCE"       => "Change Insurance",
-"TXT_HR_MANAGERS"            => "HR Managers",
-"TXT_TECHNICAL_MANAGERS"     => "Technical Managers",
+"TXT_FUEL_TANK"              => "Depósito de Combustível",
+"TXT_TRUCK_TRAILER_MARKET"   => "Mercado de Camiões & Reboques",
+"TXT_JOIN_CONCERN"           => "Entrar na Sociedade",
+"TXT_BANK_ACCOUNT"           => "Conta Bancária",
+"TXT_NAVIGATION_UNITS"       => "Unidades de Navegação",
+"TXT_FUEL_TANK_LOCK"         => "Fecho Depósito de Combustível",
+"TXT_CHANGE_INSURANCE"       => "Alterar Seguro",
+"TXT_HR_MANAGERS"            => "Gestores de Recursos Humanos",
+"TXT_TECHNICAL_MANAGERS"     => "Gestores Técnicos",
 
 
 "TXT_EMPLOYEES_UPDATE"       => "Employees Update", //A daily update on information about your employees
