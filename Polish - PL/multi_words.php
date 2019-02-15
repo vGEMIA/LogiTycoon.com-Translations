@@ -4,62 +4,62 @@
 $langmultiwords = array(
 "TXT_H_OFFICE_FULL"          => "Office Full",
 "TXT_H_COMP_PROPERTIES"      => "Company Properties", //As in: things that you own
-"TXT_H_LAST_TRANSACTION"     => "Last transaction",
-"TXT_H_NEWS"                 => "Latest News",
+"TXT_H_LAST_TRANSACTION"     => "Ostatnie transakcje",
+"TXT_H_NEWS"                 => "Ostatnie wiadomości",
 
-"TXT_MEMBER_ACTIVITY"        => "Member Activity",
-"TXT_H_NO_TRANSACTIONS"      => "No transactions",
+"TXT_MEMBER_ACTIVITY"        => "Aktywność",
+"TXT_H_NO_TRANSACTIONS"      => "Brak transakcji",
 "TXT_PRIVACYPOLICY"          => "Privacy Policy",
-"TXT_H_STARTTIME"            => "Start time",
+"TXT_H_STARTTIME"            => "Czas rozpoczęcia",
 "TXT_TERMSOFUSE"             => "Terms of Use",
 "TXT_TOP_WEEK"               => "Top This Week",
-"TXT_TOP_TODAY"              => "Top Today",
+"TXT_TOP_TODAY"              => "Top dziś",
 "TXT_TOP_TOTAL"              => "Top Total",
 
-"TXT_USERNAME_NOT_AVAILABLE" => "Username Not Available.",
-"TXT_USERNAME_AVAILABLE"     => "Username Available.",
+"TXT_USERNAME_NOT_AVAILABLE" => "Nazwa zajęta.",
+"TXT_USERNAME_AVAILABLE"     => "Nazwa dostępna.",
 
-"TXT_VIEWALL"                => "View all",
+"TXT_VIEWALL"                => "Pokaż wszystko",
 
-"TXT_H_YOURCOMPANY"          => "Your Company",
+"TXT_H_YOURCOMPANY"          => "Twoja firma",
 
-"TXT_NOT_SET"                => "Not set",
-"TXT_FREIGHT_NOTIFS"         => "freight notifications", //Number before this
-"TXT_ACTIVE_FREIGHTS"        => "active freights", //Number before this
-"TXT_COMP_NOTIFS"            => "company notifications", //Number before this
-"TXT_NEW_MSGS"               => "New messages",
-"TXT_NO_NEW_MSGS"            => "No new messages",
-"TXT_PENDING_INVOICES"       => "pending invoices", //Number before this
-"TXT_MY_PROFILE"             => "My Profile",
-"TXT_MY_CALENDAR"            => "My Calendar",
-"TXT_MY_INBOX"               => "My Inbox",
-"TXT_CHANGE_PSW"             => "Change Password",
-"TXT_CHANGE_SETTING"         => "Change Setting",
-"TXT_LOG_OUT"                => "Log Out",
+"TXT_NOT_SET"                => "Nie ustawiony",
+"TXT_FREIGHT_NOTIFS"         => "Powiadomienia frachtu", //Number before this
+"TXT_ACTIVE_FREIGHTS"        => "Aktywne frachty", //Number before this
+"TXT_COMP_NOTIFS"            => "Powiadomienia firmy", //Number before this
+"TXT_NEW_MSGS"               => "Nowe wiadomości",
+"TXT_NO_NEW_MSGS"            => "Brak wiadomości",
+"TXT_PENDING_INVOICES"       => "Oczekujące faktury", //Number before this
+"TXT_MY_PROFILE"             => "Mój profil",
+"TXT_MY_CALENDAR"            => "Moj kalendarz",
+"TXT_MY_INBOX"               => "Moja poczta",
+"TXT_CHANGE_PSW"             => "Zmień hasło",
+"TXT_CHANGE_SETTING"         => "Zmień ustawienia",
+"TXT_LOG_OUT"                => "Wyloguj",
 
-"TXT_COMP_PROFILE"           => "Company Profile",
-"TXT_CONCERN_PROFILE"        => "Corporation Profile",
-"TXT_USER_PROFILE"           => "User Profile",
+"TXT_COMP_PROFILE"           => "Profil firmy",
+"TXT_CONCERN_PROFILE"        => "Profil korporacji",
+"TXT_USER_PROFILE"           => "Profil użytkownika",
 
-"TXT_DAILY_AWARD"            => "Daily Award",
-"TXT_GENERAL_MESSAGE"        => "General Message",
+"TXT_DAILY_AWARD"            => "Dzienna nagroda",
+"TXT_GENERAL_MESSAGE"        => "Główna wiadomość",
 
-"TXT_FUEL_TANK"              => "Fuel Tank",
-"TXT_TRUCK_TRAILER_MARKET"   => "Truck & Trailer Market",
-"TXT_JOIN_CONCERN"           => "Join Corporation",
-"TXT_BANK_ACCOUNT"           => "Bank Account",
+"TXT_FUEL_TANK"              => "Zbiornik paliwa",
+"TXT_TRUCK_TRAILER_MARKET"   => "Sklep",
+"TXT_JOIN_CONCERN"           => "Dołącz do korporacji",
+"TXT_BANK_ACCOUNT"           => "Konto bankowe",
 "TXT_NAVIGATION_UNITS"       => "Navigation Units",
-"TXT_FUEL_TANK_LOCK"         => "Fuel Tank Lock",
+"TXT_FUEL_TANK_LOCK"         => "Zabezpieczenie zbiornika paliwa",
 "TXT_CHANGE_INSURANCE"       => "Change Insurance",
 "TXT_HR_MANAGERS"            => "HR Managers",
 "TXT_TECHNICAL_MANAGERS"     => "Technical Managers",
 
 
 "TXT_EMPLOYEES_UPDATE"       => "Employees Update", //A daily update on information about your employees
-"TXT_TRUCK_DAMAGED"          => "Truck Damaged",
-"TXT_TRAILER_DAMAGED"        => "Trailer Damaged",
+"TXT_TRUCK_DAMAGED"          => "Ciężarówka uszkodzona",
+"TXT_TRAILER_DAMAGED"        => "Naczepa uszkodzona",
 
-"TXT_ALL_COMPANIES"          => "All Companies",
+"TXT_ALL_COMPANIES"          => "Wszystkie firmy",
 "TXT_RECORDS_FOUND"          => "Records Found",
 
 "TXT_H_COMPANY_POINTS"       => "Company Points",
@@ -70,19 +70,19 @@ $langmultiwords = array(
 "TXT_LAST_14_DAYS"           => "Last 14 days",
 "TXT_LAST_30_DAYS"           => "Last 30 days",
 
-"TXT_FREIGHTS_COMPLETED"     => "Freights completed",
-"TXT_OPEN_FREIGHTS"          => "Open Freights",
-"TXT_OPEN_FREIGHT"           => "Open Freight",
+"TXT_FREIGHTS_COMPLETED"     => "Frachty zakończone",
+"TXT_OPEN_FREIGHTS"          => "Otwarte frachty",
+"TXT_OPEN_FREIGHT"           => "Otwarty fracht",
 
-"TXT_KMS_DRIVEN"             => "KM's driven",
-"TXT_LOW_FUEL"               => "Low fuel",
-"TXT_BAD_CONDITION"          => "Bad condition",
+"TXT_KMS_DRIVEN"             => "KM przejechane",
+"TXT_LOW_FUEL"               => "Mało paliwa",
+"TXT_BAD_CONDITION"          => "Zła kondycja",
 "TXT_LOW_AWAKE_PERC"         => "Low awake %",
 
-"TXT_NEW_STATUS"             => "New status", //: after this or in a table
+"TXT_NEW_STATUS"             => "Nowy status", //: after this or in a table
 
 "TXT_HIGH_SCORE_RANK"        => "High Score Rank",
-"TXT_PRIVATE_COMPANY"        => "Private Company",
+"TXT_PRIVATE_COMPANY"        => "Prywatna firma",
 "TXT_PART_OF_CONCERN"        => "Part of Corporation", //: after this
 "TXT_PART_OF_A_CONCERN"      => "Part of a Corporation",
 
@@ -97,7 +97,7 @@ $langmultiwords = array(
 "TXT_AVAILABLE_AT"           => "Available at", //Countdown Time after this
 "TXT_HIGHER_LEVEL_REQ"       => "Higher Level required!",
 
-"TXT_FIRE_MEMBER"            => "Fire Member",
+"TXT_FIRE_MEMBER"            => "Zwolnij pracownika",
 "TXT_PROMOTE_MEMBER"         => "Promote Member",
 "TXT_APPOINT_AS_CEO"         => "Appoint as CEO",
 
