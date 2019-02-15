@@ -55,63 +55,63 @@ $langmultiwords = array(
 "TXT_TECHNICAL_MANAGERS"     => "Gestores Técnicos",
 
 
-"TXT_EMPLOYEES_UPDATE"       => "Employees Update", //A daily update on information about your employees
-"TXT_TRUCK_DAMAGED"          => "Truck Damaged",
-"TXT_TRAILER_DAMAGED"        => "Trailer Damaged",
+"TXT_EMPLOYEES_UPDATE"       => "Atualizações de Funcionários", //A daily update on information about your employees
+"TXT_TRUCK_DAMAGED"          => "Camião Danificado",
+"TXT_TRAILER_DAMAGED"        => "Reboque Danificado",
 
-"TXT_ALL_COMPANIES"          => "All Companies",
-"TXT_RECORDS_FOUND"          => "Records Found",
+"TXT_ALL_COMPANIES"          => "Todas as Empresas",
+"TXT_RECORDS_FOUND"          => "Registos Encontrados",
 
-"TXT_H_COMPANY_POINTS"       => "Company Points",
-"TXT_BASED_ON"               => "Based on", // : after this
+"TXT_H_COMPANY_POINTS"       => "Pontos da Empresa",
+"TXT_BASED_ON"               => "Baseado em", // : after this
 
-"TXT_LAST_24_HRS"            => "Last 24 Hours",
-"TXT_LAST_7_DAYS"            => "Last 7 days",
-"TXT_LAST_14_DAYS"           => "Last 14 days",
-"TXT_LAST_30_DAYS"           => "Last 30 days",
+"TXT_LAST_24_HRS"            => "Últimas 24 Horas",
+"TXT_LAST_7_DAYS"            => "Últimos 7 dias",
+"TXT_LAST_14_DAYS"           => "Últimos 14 dias",
+"TXT_LAST_30_DAYS"           => "Últimos 30 dias",
 
-"TXT_FREIGHTS_COMPLETED"     => "Freights completed",
-"TXT_OPEN_FREIGHTS"          => "Open Freights",
-"TXT_OPEN_FREIGHT"           => "Open Freight",
+"TXT_FREIGHTS_COMPLETED"     => "Carregamentos Completos",
+"TXT_OPEN_FREIGHTS"          => "Carregamentos Abertos",
+"TXT_OPEN_FREIGHT"           => "Carregamento Aberto",
 
-"TXT_KMS_DRIVEN"             => "KM's driven",
-"TXT_LOW_FUEL"               => "Low fuel",
-"TXT_BAD_CONDITION"          => "Bad condition",
-"TXT_LOW_AWAKE_PERC"         => "Low awake %",
+"TXT_KMS_DRIVEN"             => "KM's Conduzidos",
+"TXT_LOW_FUEL"               => "Baixo Combustível",
+"TXT_BAD_CONDITION"          => "Más condições",
+"TXT_LOW_AWAKE_PERC"         => "Baixa % Acordado",
 
-"TXT_NEW_STATUS"             => "New status", //: after this or in a table
+"TXT_NEW_STATUS"             => "Novo Estado", //: after this or in a table
 
-"TXT_HIGH_SCORE_RANK"        => "High Score Rank",
-"TXT_PRIVATE_COMPANY"        => "Private Company",
-"TXT_PART_OF_CONCERN"        => "Part of Corporation", //: after this
-"TXT_PART_OF_A_CONCERN"      => "Part of a Corporation",
+"TXT_HIGH_SCORE_RANK"        => "Classificação de Alta Pontuação",
+"TXT_PRIVATE_COMPANY"        => "Empresa Privada",
+"TXT_PART_OF_CONCERN"        => "Parte da Sociedade", //: after this
+"TXT_PART_OF_A_CONCERN"      => "Parte de uma Sociedade",
 
-"TXT_DELETE_COMPANY"         => "Delete Company",
-"TXT_DELETE_CONCERN"         => "Delete Corporation",
+"TXT_DELETE_COMPANY"         => "Eliminar Empresa",
+"TXT_DELETE_CONCERN"         => "Eliminar Sociedade",
 
-"TXT_DAYS_OLD"               => "days old", //Amount before this
+"TXT_DAYS_OLD"               => "dias de idade", //Amount before this
 
-"TXT_STEAL_FUEL"             => "Steal Fuel",
-"TXT_FUEL_TANK_PROTECTED"    => "Fuel Tank protected!",
+"TXT_STEAL_FUEL"             => "Roubar Combustível",
+"TXT_FUEL_TANK_PROTECTED"    => "Depósito de Combustível Protegido!",
 
-"TXT_AVAILABLE_AT"           => "Available at", //Countdown Time after this
-"TXT_HIGHER_LEVEL_REQ"       => "Higher Level required!",
+"TXT_AVAILABLE_AT"           => "Disponível em", //Countdown Time after this
+"TXT_HIGHER_LEVEL_REQ"       => "Nível Superior Necessário!",
 
-"TXT_FIRE_MEMBER"            => "Fire Member",
-"TXT_PROMOTE_MEMBER"         => "Promote Member",
-"TXT_APPOINT_AS_CEO"         => "Appoint as CEO",
+"TXT_FIRE_MEMBER"            => "Despedir Membro",
+"TXT_PROMOTE_MEMBER"         => "Promover Membro",
+"TXT_APPOINT_AS_CEO"         => "Promover a CEO",
 
-"TXT_TOTAL_MEMBERS"          => "Total members", // : after this
-"TXT_THIS_WEEK"              => "This week",
-"TXT_USER_LEVEL"             => "User Level",
-"TXT_DONATIONS_OVERVIEW"     => "Donations overview",
-"TXT_AUTO_DAILY_DONATE"      => "Daily donation",
-"TXT_CURRENT_AMOUNT"         => "Current amount", //As in: amount of money
-"TXT_NEW_AMOUNT"             => "New amount", //As in: amount of money
-"TXT_DONATE_MONEY"           => "Donate money",
+"TXT_TOTAL_MEMBERS"          => "Total de Membros", // : after this
+"TXT_THIS_WEEK"              => "Esta Semana",
+"TXT_USER_LEVEL"             => "Nível do Utilizador",
+"TXT_DONATIONS_OVERVIEW"     => "Visão Global de Doações",
+"TXT_AUTO_DAILY_DONATE"      => "Doação Diária",
+"TXT_CURRENT_AMOUNT"         => "Montante atual", //As in: amount of money
+"TXT_NEW_AMOUNT"             => "Novo montante", //As in: amount of money
+"TXT_DONATE_MONEY"           => "Doar Dinheiro",
 
-"TXT_FUEL_LOGS"              => "Fuel Logs",
-"TXT_LITER_PRICE"            => "Liter Price",
+"TXT_FUEL_LOGS"              => "Registos de Combustível",
+"TXT_LITER_PRICE"            => "Preço Por Litro",
 
 "TXT_ACCEPTS_COMPANIES"      => "Accepts companies", // : yes or no after this
 "TXT_CONCERN_POINTS"         => "Corporation points",
