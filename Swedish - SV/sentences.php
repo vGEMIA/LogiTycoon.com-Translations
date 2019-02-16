@@ -216,5 +216,20 @@ $langsentences = array(
 
 "TXT_SEND_WITH_FREIGHT"      => "Send with freight",
 "TXT_CONTINUE_DRIVING"       => "Continue Driving"
+  
+//Oil Refinery Update
+"TXT_CONCERN_OILREF_INFO_1"  => "You can fill up the Oil Refineries when the local crude oil oprice is low enough for you.",
+"TXT_CONCERN_OILREF_INFO_2"  => "Oil Refineries can be filled up when the local crude oil oprice is as low as possible.",
+"TXT_CONCERN_OILREF_INFO_3"  => "You can upgrade the Oil Refineries to increase it's production.",
+"TXT_CONCERN_OILREF_INFO_4"  => "You can upgrade the Oil Refineries to increase it's capacity.",
+"TXT_CONCERN_OILREF_INFO_5"  => "Oil Refineries can be upgraded to increase it's capacity.",
+"TXT_CONCERN_OILREF_INFO_6"  => "Oil Refineries can be upgraded to increase it's production.",
+"TXT_CONCERN_OILREF_INFO_7"  => "New Oil Refineries can be bought.",
+"TXT_CONCERN_OILREF_INFO_8"  => "If there is enough fuel available, it can be transported to the Fuel Stations.",
+"TXT_LET_TRANSPORT_FUEL"     => "The fuel will be transported to the Fuel Stations.",
+
+//Premium & Tutorial Update
+"TXT_EXTRA_TEMP_MANAGERS"    => "4 Extra (temporary) Managers",
+"TXT_SELECT_PERS_DETAILS"    => "First select your personal details below.",
 );
 ?>
