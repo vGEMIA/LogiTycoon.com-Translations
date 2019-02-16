@@ -21,3 +21,6 @@ When everything is okay, press the "Propose File Change" button at the bottom of
 After this, request your changes in the master code, by creating a pull request. Just click on the "Create Pull Request" button on the next site that showed. (Sometimes you have to press this button twice.)
 
 Now your're done with editing and saving the file - you made a request to us that you want to change your edited lines in your language-pack. 
+
+## What if I want to check how the translation is in-game? ##
+When all the files for a language have been translated, they will be placed in the game as a Beta translation. After this, the language files can still be changed here and they will be updated to the game every now and then.
