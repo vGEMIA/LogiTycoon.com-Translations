@@ -24,3 +24,6 @@ Now your're done with editing and saving the file - you made a request to us tha
 
 ## What if I want to check how the translation is in-game? ##
 When all the files for a language have been translated, they will be placed in the game as a Beta translation. After this, the language files can still be changed here and they will be updated to the game every now and then.
+
+## Questions? ##
+Any questions? Feel free to send me an e-mail: info@logitycoon.com
