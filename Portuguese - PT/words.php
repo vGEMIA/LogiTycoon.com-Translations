@@ -302,5 +302,9 @@ $langwords = array(
 "TXT_INSURED"                => "insured", // *var* % insured
 "TXT_OR"                     => "or",
 "TXT_NOT_APPLICABLE_SHORT"   => "n/a" //Abbreviation of 'Not Applicable'
+  
+//Oil Refinery Update
+"TXT_H_PRODUCTION"           => "Production",
+"TXT_H_TRANSPORT"            => "Transport" //To transport
 );
 ?>
