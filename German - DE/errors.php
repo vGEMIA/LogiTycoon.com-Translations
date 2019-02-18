@@ -9,93 +9,93 @@ Type:       Errors
 $langerrors = array(
 //ERROR TYPES
 "ERROR"          => "Error",
-"WARNING"        => "Warning",
-"SUCCESS"        => "Success",
+"WARNING"        => "Warnung",
+"SUCCESS"        => "Erfolg",
 "INFO"           => "Info",
 
 //BASIC ERRORS
-"ERROR_NOCOMP"               => "You do not have a company. Create one first!",
-"ERROR_NOCOMP2"              => "You do not have a company.",
-"ERROR_NOMONEY"              => "Your company does not have enough money on its payment account!",
-"ERROR_INVALID_NUMBER"       => "Invalid number!",
-"ERROR_INVALID_COMP2"        => "Wait.. what company are you looking for?",
-"ERROR_INVALID_COMP"         => "That company does not exist!",
-"ERROR_INVALID_CITY"         => "Invalid city!",
-"ERROR_INVALID_COUNTRY"      => "Invalid country!",
-"ERROR_INVALID_OBJECT"       => "Invalid object!",
-"ERROR_LEVEL_TOO_LOW"        => "You do not have the required level!",
-"ERROR_SELECTED"             => "Selected.",
-"ERROR_INVALID_MEMBER"       => "Member does not exist!",
-"ERROR_INVALID_REQUEST"      => "Invalid request!",
+"ERROR_NOCOMP"               => "Du hast keine Firma. Erstelle zuerst eine!",
+"ERROR_NOCOMP2"              => "Du hast keine Firma.",
+"ERROR_NOMONEY"              => "Deine Firma hat nicht genug Geld auf dem Bankkonto!",
+"ERROR_INVALID_NUMBER"       => "Ungültige Nummer!",
+"ERROR_INVALID_COMP2"        => "Warte.. welche Firma suchst du?",
+"ERROR_INVALID_COMP"         => "Diese Firma exestiert nicht!",
+"ERROR_INVALID_CITY"         => "Ungültige Stadt!",
+"ERROR_INVALID_COUNTRY"      => "Ungültiges Land!",
+"ERROR_INVALID_OBJECT"       => "Ungültiges Objekt!",
+"ERROR_LEVEL_TOO_LOW"        => "Du hast nicht das benötigte Level!",
+"ERROR_SELECTED"             => "Ausgewählt.",
+"ERROR_INVALID_MEMBER"       => "Spieler exestiert nicht!",
+"ERROR_INVALID_REQUEST"      => "Ungültige Anfrage!",
 
 
 //Premium
-"ERROR_PURCHASE_COMPL"           => "Purchase completed.",
-"ERROR_PAY_ID_INVALID"           => "Payment ID invalid.",
-"ERROR_PAYMENT_COMPL"            => "Payment completed.",
-"ERROR_PAYMENT_EXP"              => "Payment expired. Please try again.",
-"ERROR_PAYMENT_CANCELLED"        => "You have cancelled the payment.",
-"ERROR_PAYMENT_NOT_ACCEPTED"     => "Payment not accepted.",
-"ERROR_PREMIUM_BOUGHT"           => "Premium function bought.",
-"ERROR_NOT_ENOUGH_CREDITS"       => "You do not have enough premium credits, buy them first!",
-"ERROR_PREMIUM_REQ"              => "You will need a premium account for this.",
+"ERROR_PURCHASE_COMPL"           => "Kauf abgeschlossen.",
+"ERROR_PAY_ID_INVALID"           => "Zahlungs ID ungültig.",
+"ERROR_PAYMENT_COMPL"            => "Kauf abgeschlossen.",
+"ERROR_PAYMENT_EXP"              => "Zahlung verfallen. Bitte versuche es erneut.",
+"ERROR_PAYMENT_CANCELLED"        => "Die Zahlung wurde abgebrochen.",
+"ERROR_PAYMENT_NOT_ACCEPTED"     => "Zahlung nicht akzeptiert.",
+"ERROR_PREMIUM_BOUGHT"           => "Premium Funktion gekauft.",
+"ERROR_NOT_ENOUGH_CREDITS"       => "DU hast nicht genug Premium-Münzen, kaufe dir zuerst welche!",
+"ERROR_PREMIUM_REQ"              => "Dafür benötigst du einen Premium Account.",
 
 //Video Reward
-"ERROR_REWARD_CLAIMED"           => "Reward claimed!",
-"ERROR_DAY_LIMIT_REACHED"        => "Daily limit reached!",
+"ERROR_REWARD_CLAIMED"           => "Reward claimed!", //Not sure
+"ERROR_DAY_LIMIT_REACHED"        => "Tägliches Limit erreicht!",
 
 //User
 
     //General
-    "ERROR_TUTORIAL_SKIPPED"     => "You have skipped the tutorial.",
+    "ERROR_TUTORIAL_SKIPPED"     => "Du hast das Tutorial übersprungen.",
 
     //Messages
-    "ERROR_MESSAGE_SENT"         => "Message sent.",
-    "ERROR_BLACKLISTED"          => "You have been blacklisted by this member!",
-    "ERROR_MSG_SUBJECT_SHORT"    => "Subject is not long enough!",
-    "ERROR_MSG_CONTENT_SHORT"    => "Content is not long enough!",
-    "ERROR_INVALID_MESSAGE"      => "Message not found!",
-    "ERROR_MSG_NO_SUBJECT"       => "No subject filled!",
-    "ERROR_MSG_NO_RECEIVER"      => "No receiver filled!",
-    "ERROR_MSG_NO_CONTENT"       => "No content filled!",
+    "ERROR_MESSAGE_SENT"         => "Nachricht gesendet.",
+    "ERROR_BLACKLISTED"          => "Du wurdest von diesem Spieler blockiert!",
+    "ERROR_MSG_SUBJECT_SHORT"    => "Thema ist nicht lang genug!", //maybe not theme, somehting like headline
+    "ERROR_MSG_CONTENT_SHORT"    => "Text ist nicht lang genug!",
+    "ERROR_INVALID_MESSAGE"      => "Nachricht nicht gefunden!",
+    "ERROR_MSG_NO_SUBJECT"       => "Kein Thema angegeben!",
+    "ERROR_MSG_NO_RECEIVER"      => "Kein Empfänger angegeben!",
+    "ERROR_MSG_NO_CONTENT"       => "Kein Text angegeben!",
 
     //Profile
-    "ERROR_CURRENT_PASSWORD"     => "You have to fill in your current password!",
-    "ERROR_NEW_PASSWORD"         => "You have to fill in a new password!",
-    "ERROR_PASSWORD_CHANGED"     => "Password changed!",
-    "ERROR_DATABASE_ERROR"       => "Database error!",
-    "ERROR_PASS_NOT_SAFE"        => "New password is not safe enough! Password should be at least 6 characters and should contain a digit and a capital letter.",
-    "ERROR_PASS_INCORRECT"       => "Current password incorrect!",
-    "ERROR_TIMEZONE_CHANGED"     => "Timezone changed.",
-    "ERROR_INVALID_TIMEZONE"     => "Invalid timezone!",
+    "ERROR_CURRENT_PASSWORD"     => "Bitte gebe dein momentaniges Passwort ein!",
+    "ERROR_NEW_PASSWORD"         => "Du musst ein neues Passwort eingeben!",
+    "ERROR_PASSWORD_CHANGED"     => "Passwort geändert!",
+    "ERROR_DATABASE_ERROR"       => "Datenbank Error!",
+    "ERROR_PASS_NOT_SAFE"        => "Neues Passwort ist nicht sicher genug! Passwort muss mindestens 6 Zeichen lang sein, mit einer Zahl und einem Großbuchstaben.",
+    "ERROR_PASS_INCORRECT"       => "Momentaniges Passwort falsch!",
+    "ERROR_TIMEZONE_CHANGED"     => "Zeitzone geändert.",
+    "ERROR_INVALID_TIMEZONE"     => "Ungültige Zeitzone!",
 
 //Company + Corporation
 
     //General
-    "ERROR_NAME_EXISTS"          => "Name already exists!",
-    "ERROR_NAME_SHORT"           => "Name is too short! Minimum is 6 characters!",
-    "ERROR_NAME_SHORT2"          => "Name is too short! Minimum is 3 characters!",
-    "ERROR_NAME_LONG"            => "Name is too long! Only 18 characters allowed!",
-    "ERROR_NAME_LONG2"           => "Name is too long! Only 13 characters allowed!",
-    "ERROR_NO_WAREHOUSE"         => "You do not have a warehouse! Buy one at the shop first!",
+    "ERROR_NAME_EXISTS"          => "Name exestiert bereits!",
+    "ERROR_NAME_SHORT"           => "Name ist zu kurz! Mindestens 6 Zeichen!",
+    "ERROR_NAME_SHORT2"          => "Name ist zu kurz! Mindestens 3 Zeichen!",
+    "ERROR_NAME_LONG"            => "Name ist zu lang! Maximal 13 Zeichen erlaubt!",
+    "ERROR_NAME_LONG2"           => "Name ist zu lang! Maximal 13 Zeichen erlaubt!",
+    "ERROR_NO_WAREHOUSE"         => "Du hast kein Lager! Kaufe eins im Shop!",
 
 
     //Freights
-    "ERROR_SPECIFY_FREIGHT"      => "Please specify the freight you want to accept.",
-    "ERROR_INVALID_FREIGHT"      => "This freight number is not valid.",
-    "ERROR_INVALID_TR_LICENSE"   => "You do not have a valid transport license for this freight type.",
-    "ERROR_WAREHOUSE_FULL"       => "Your warehouse is too small. Upgrade it or cancel other freights first!",
-    "ERROR_INV_OR_ACC_FREIGHT"   => "This freight is invalid or someone else has already accepted it.",
-    "ERROR_FREIGHT_ACCEPTED"     => "You have accepted this freight.",
+    "ERROR_SPECIFY_FREIGHT"      => "Bitte gebe an welche Fracht du annehmen möchtes!.",
+    "ERROR_INVALID_FREIGHT"      => "Die Fracht Nummer ist ungültig.",
+    "ERROR_INVALID_TR_LICENSE"   => "Du hast keine gültige Transportlizens für diesen Frachttyp.",
+    "ERROR_WAREHOUSE_FULL"       => "Dein Lager ist zu klein. Rüste es auf oder breche andere Frachten ab!",
+    "ERROR_INV_OR_ACC_FREIGHT"   => "Diese Fracht ist ungültig oder jemand anderes hat sie bereits angenommen.",
+    "ERROR_FREIGHT_ACCEPTED"     => "Du hast diese Fracht angenommen!.",
 
 //Company
 
     //General
-    "ERROR_INVALID_INVOICE"          => "Invalid invoice!",
-    "ERROR_NAME_CHANGED"             => "Name has been changed.",
-    "ERROR_HQ_PART_CONCERN"          => "HQ can only be changed if your company is not part of a corporation.",
-    "ERROR_HQ_CHANGE_DAYS"           => "HQ can only be changed once every 7 days.",
-    "ERROR_HQ_CHANGED"               => "Company HQ has been changed.",
+    "ERROR_INVALID_INVOICE"          => "Ungültige Rechnung!",
+    "ERROR_NAME_CHANGED"             => "name geändert.",
+    "ERROR_HQ_PART_CONCERN"          => "Hauptquatier kann nur gerändert werden wenn deine Firma nicht Teil einer Kooperation ist.",
+    "ERROR_HQ_CHANGE_DAYS"           => "Hauptquatier kann nur alle 7 Tage geändert werden.",
+    "ERROR_HQ_CHANGED"               => "Firmen Hauptquatier wurde gändert.",
     "ERROR_MONEY_TRANSFERED"         => "Money succesfully transfered!",
     "ERROR_LEVEL_BANK_ACC"           => "You have to be at level 7 to open a savings account!",
     "ERROR_NOMONEY_SAVINGS"          => "You do not have enough money on your savings account!",
