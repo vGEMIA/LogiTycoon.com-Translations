@@ -41,7 +41,7 @@ $langerrors = array(
 "ERROR_PREMIUM_REQ"              => "Dafür benötigst du einen Premium Account.",
 
 //Video Reward
-"ERROR_REWARD_CLAIMED"           => "Reward claimed!", //Not sure
+"ERROR_REWARD_CLAIMED"           => "Belohnung erhalten!",
 "ERROR_DAY_LIMIT_REACHED"        => "Tägliches Limit erreicht!",
 
 //User
@@ -92,33 +92,33 @@ $langerrors = array(
 
     //General
     "ERROR_INVALID_INVOICE"          => "Ungültige Rechnung!",
-    "ERROR_NAME_CHANGED"             => "name geändert.",
+    "ERROR_NAME_CHANGED"             => "Name geändert.",
     "ERROR_HQ_PART_CONCERN"          => "Hauptquatier kann nur gerändert werden wenn deine Firma nicht Teil einer Kooperation ist.",
     "ERROR_HQ_CHANGE_DAYS"           => "Hauptquatier kann nur alle 7 Tage geändert werden.",
     "ERROR_HQ_CHANGED"               => "Firmen Hauptquatier wurde gändert.",
-    "ERROR_MONEY_TRANSFERED"         => "Money succesfully transfered!",
-    "ERROR_LEVEL_BANK_ACC"           => "You have to be at level 7 to open a savings account!",
-    "ERROR_NOMONEY_SAVINGS"          => "You do not have enough money on your savings account!",
-    "ERROR_NOBANKACC"                => "You do not have a savings account! Request one in the shop first!",
-    "ERROR_COMPMADE"                 => "The company has been made!",
-    "ERROR_ALREADY_COMP"             => "You already have a company!",
-    "ERROR_COMP_NOPROP"              => "Company does not have any buildings.",
-    "ERROR_COMPSTILLINCONCERN"       => "Your company is still part of a corporation. Retire from your corporation first!",
-    "ERROR_ACTIVE_MARKETSALE"        => "Your company has trucks or trailers for sale at the market. Cancel their sale first!",
-    "ERROR_COMP_REMOVED"             => "Your company has been removed.",
-    "ERROR_UPGRADE_TR_LICENSE"       => "You need to upgrade your transport license first!",
+    "ERROR_MONEY_TRANSFERED"         => "Geld erfolgreich überwiesen!",
+    "ERROR_LEVEL_BANK_ACC"           => "Um ein Sparkonto zu eröffnen, musst du mindestens Level 7 sein!",
+    "ERROR_NOMONEY_SAVINGS"          => "Du hast nicht genug Geld auf deinem Sparkonto!",
+    "ERROR_NOBANKACC"                => "Du hast kein Sparkkonto! Fordere zuerst eins im Shop an!",
+    "ERROR_COMPMADE"                 => "Die Firma wurde erstellt!",
+    "ERROR_ALREADY_COMP"             => "Du hast bereits eine Firma!",
+    "ERROR_COMP_NOPROP"              => "Die Firma hat keine Gebäude.",
+    "ERROR_COMPSTILLINCONCERN"       => "Die Firma ist Teil einer Kooperation. Verlasse zuerst deine Kooperation!",
+    "ERROR_ACTIVE_MARKETSALE"        => "Die Firma hat momentan LKWs oder Anhänger im Verkauf. Breche zuerst den Verkauf ab!",
+    "ERROR_COMP_REMOVED"             => "Die Firma wurde gelöscht.",
+    "ERROR_UPGRADE_TR_LICENSE"       => "Upgrade zuerst deine Transportlizenz!",
 
-    "ERROR_CANT_SPEEDUP_ACTION_TYPE" => "You cannot speed up this type of action.",
+    "ERROR_CANT_SPEEDUP_ACTION_TYPE" => "Diese Aktion kann nicht beschleunigt werden.",
 
     //Garage & Warehouse
-    "ERROR_NO_GARAGE"                => "You do not have a garage! Buy one at the shop first!",
-    "ERROR_GARAGE_FULL"              => "Your garage is too small. Upgrade it first!",
+    "ERROR_NO_GARAGE"                => "Du besitzt keine Garage! Kaufe eine im Shop!",
+    "ERROR_GARAGE_FULL"              => "Deine Garage ist zu klein. Vergrößere sie!",
 
-    "ERROR_WAREHOUSE_DOWNGRADED"     => "You have now downgraded your warehouse.",
-    "ERROR_GARAGE_DOWNGRADED"        => "You have now downgraded your garage.",
-    "ERROR_WAREHOUSE_UPGRADED"       => "You have now upgraded your warehouse.",
-    "ERROR_GARAGE_UPGRADED"          => "You have now upgraded your garage.",
-    "ERROR_DOWNGRADE_LEVEL1"         => "Downgrading not possible at level 1!",
+    "ERROR_WAREHOUSE_DOWNGRADED"     => "Du hast dein Lager verkleinert.",
+    "ERROR_GARAGE_DOWNGRADED"        => "Du hast deine Garage verkleinert.",
+    "ERROR_WAREHOUSE_UPGRADED"       => "Du hast dein Lager vergrößert.",
+    "ERROR_GARAGE_UPGRADED"          => "Du hast deine Garage vergrößert.",
+    "ERROR_DOWNGRADE_LEVEL1"         => "Verkleinern bei Level 1 nicht möglich!",
 
     //Transport License
     "ERROR_GET_PREV_LICENSES"        => "You first have to achieve the previous licenses to get this one!",
